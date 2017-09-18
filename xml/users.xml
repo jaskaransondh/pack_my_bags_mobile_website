@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<userlist>
+  <user>
+    <name>Jaskaran</name>
+    <password>Jaskaran</password>
+    <email>jaskaransondh714@gmail.com</email>
+  </user>
+  <user>
+    <name>Vannie</name>
+    <password>Vannie</password>
+    <email>vanniewadhwa97@hotmail.com</email>
+  </user>
+  <user>
+    <name>Anu</name>
+    <password>Anu</password>
+    <email>anumahay96@gmail.com</email>
+  </user>
+  <user>
+    <name>Adam</name>
+    <password>Levine</password>
+    <email>adamlevine@gmail.com</email>
+  </user>
+  <user>
+    <name>Jack</name>
+    <password>daniels</password>
+    <email>daniels.jack@vic.com</email>
+  </user>
+  <user>
+    <name>Aishi</name>
+    <password>aishi</password>
+    <email>aishi@youknownothing.com</email>
+  </user>
+</userlist>
